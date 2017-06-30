@@ -19,6 +19,7 @@
     "dependencies": {
         "cheerio": "^1.0.0-rc.1",
         "express": "^4.15.3",
+        "jshint": "^2.9.5",
         "request": "^2.81.0"
     }
 }
