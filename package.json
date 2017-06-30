@@ -1,0 +1,24 @@
+{
+    "name": "scrapey",
+    "version": "1.0.0",
+    "description": "Scrapey le Web",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/savsaville/DataMineExample.git"
+    },
+    "author": "Sav",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/savsaville/DataMineExample/issues"
+    },
+    "homepage": "https://github.com/savsaville/DataMineExample#readme",
+    "dependencies": {
+        "express": "^4.15.3",
+        "cheerio": "latest",
+        "request": "latest"
+    }
+}
