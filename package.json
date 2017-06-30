@@ -17,8 +17,8 @@
     },
     "homepage": "https://github.com/savsaville/DataMineExample#readme",
     "dependencies": {
+        "cheerio": "^1.0.0-rc.1",
         "express": "^4.15.3",
-        "cheerio": "latest",
-        "request": "latest"
+        "request": "^2.81.0"
     }
 }
